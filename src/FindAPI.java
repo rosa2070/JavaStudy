@@ -11,4 +11,5 @@ public class FindAPI {
         System.out.println(s.length()); //string class가 가진 length라는 동작
 
     }
+    .
 }

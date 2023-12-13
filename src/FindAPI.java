@@ -9,7 +9,7 @@ public class FindAPI {
         s = "APPLE";
         System.out.println("s = " + s);
         System.out.println(s.length()); //string class가 가진 length라는 동작
-        .
+
     }
 
 }
